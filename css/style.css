@@ -1,0 +1,20 @@
+#navbarNavAltMarkup{
+    justify-content: right;
+    padding: 10px;
+    
+}
+#navb:hover{
+    background-color: #fbfbfb;
+    color: black;
+    border-radius: 10%;
+}
+#navb{
+    color: rgb(247, 247, 247);
+    font-size: 18px;
+    margin: 0px 10px;
+
+}
+#headertext{
+    color: aliceblue;
+    font-weight: 700;
+}
